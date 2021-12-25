@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "#B#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:string"
+    },
+    "B": {
+      "item": "bridge:spider_heart"
+    }
+  },
+  "result": {
+    "item": "bridge:spiderman_chestplate",
+    "count": 1
+  }
+}
