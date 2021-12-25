@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/B/",
+    "OOO"
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "bridge:rope_pile"
+    },
+    "O": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "bridge:oak_bridge",
+    "count": 1
+  }
+}

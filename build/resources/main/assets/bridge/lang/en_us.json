@@ -1,0 +1,15 @@
+{
+  "item.bridge.rope": "Rope",
+  "item.bridge.rope_pile": "Rope Pile",
+  "block.bridge.oak_bridge": "Oak Bridge",
+
+  "item.bridge.spider_head": "Spider Head",
+  "item.bridge.spider_feet": "Spider Feet",
+  "item.bridge.spider_heart": "Spider Heart",
+  "item.bridge.spider_leg": "Spider Leg",
+
+  "item.bridge.spiderman_helmet": "Spiderman Mask",
+  "item.bridge.spiderman_chestplate": "Spiderman Chestplate",
+  "item.bridge.spiderman_legging": "Spiderman Pants",
+  "item.bridge.spiderman_boots": "Spiderman Boots"
+}

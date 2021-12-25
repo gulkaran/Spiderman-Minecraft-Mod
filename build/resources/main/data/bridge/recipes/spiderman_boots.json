@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "B B"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:string"
+    },
+    "B": {
+      "item": "bridge:spider_feet"
+    }
+  },
+  "result": {
+    "item": "bridge:spiderman_boots",
+    "count": 1
+  }
+}

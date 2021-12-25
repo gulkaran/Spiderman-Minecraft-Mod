@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "bridge:block/oak_bridge" }
+  }
+}
