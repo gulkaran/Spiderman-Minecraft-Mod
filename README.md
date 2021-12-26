@@ -7,8 +7,8 @@ The Spiderman Armour set, inspired from the 2021 film "No Way Home", allows play
 The item drop chances:
 - Spider Head --> dropped from spiders (10%)
 - Spider Heart --> dropped from cave spiders (10%)
-- Spider Leg --> dropped from spiders (50%)
-- Spider Feet --> dropped from spiders (30%)
+- Spider Leg --> dropped from spiders (20%)
+- Spider Feet --> dropped from spiders (10%)
 
 ## 🛠️ Here's how to craft them into our brand new Spidey Armour:
 
